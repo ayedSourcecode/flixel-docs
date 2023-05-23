@@ -54,3 +54,14 @@ To stay informed about new releases, you can follow [@HaxeFlixel](https://twitte
 ### Development version
 
 If you are interested in using bleeding edge code from the development branch [on GitHub](https://github.com/HaxeFlixel/flixel), see [instructions here](/documentation/install-development-flixel).
+
+# IF YOU WORK IN FNF SOURCE CODE RUN THAT VERSIONS
+``` bash
+haxelib install flixel-addons 2.11.0
+```
+that versions work in fnf
+`and`
+``` bash
+haxelib install flixel-ui 2.4.0
+```
+that's it
